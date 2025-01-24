@@ -1,6 +1,4 @@
-#Neural Network
-
----
+### Neural Network
 
 ### Stroke Prediction
 

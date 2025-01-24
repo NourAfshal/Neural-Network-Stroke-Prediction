@@ -1,6 +1,4 @@
-### Neural Network
-
-### Stroke Prediction
+### Neural Network Stroke Prediction
 
 **Objective:** The goal of this project is to apply deep learning concepts to predict whether a person will experience a stroke. By the end of this project, we will have developed a solution using a neural network, along with SMOTE (Synthetic Minority Over-sampling Technique), to address class imbalance and improve prediction accuracy.
 **Dataset Explanation:** We will be using the stroke dataset. Its features are:
